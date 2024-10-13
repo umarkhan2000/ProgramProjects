@@ -14,7 +14,7 @@ from langchain_community.llms import OpenAI
 from langchain_community.vectorstores import Chroma
 
 # Retrieve API KEY from Constants.py file
-os.environ["API_KEY"] = constants.API_KEY
+os.environ["OPENAPI_KEY"] = constants.API_KEY
 
 # Enable to save to disk & reuse the model (for repeated queries on the same data)
 PERSIST = False
