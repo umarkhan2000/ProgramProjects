@@ -1,0 +1,51 @@
+CERTIFICATIONS
+•
+Google Tensorflow Developer, IBM Data Scientist Certification, Azure Data Fundamentals, Azure Fundamentals
+Umar Khan
+Unviersity of York, United Kingdom
+Sep ’23 – Jun ‘25
+Masters of Science, Computer Science and Data Analytics
+Unviersity of Toronto, Canada
+Sep ‘18 – Dec ’22
+Honors Bachelors of Science, Statistics Specialist (Data Science and Machine Learning)
+PROFESSIONAL EXPERIENCE
+Senior Business Intelligence Analyst
+Jul ’24 - Current
+TD Bank - Wealth
+•
+Collaborated and led a team to develop a metric curation framework for TD Wealth, utilizing Databricks, PySpark, SQL and Data Warehousing techniques to encompass nearly 80 metrics, resulting in a 60% simplification of cross-team querying processes.
+•
+Conducted valuation assessment for a project using clustering and regression analysis, resulting in the transfer of nearly 3,000 leads to a different team and raising an additional $30 million in opportunity value.
+Business Intelligence & Reporting Analyst III
+Sep ’22 – Jul ‘24
+TD Bank - Wealth
+•
+Streamlined operations by automating diverse ETL pipelines through Pyspark, Powershell, Hadoop, and SQL reclaiming over 10 hours a week from manual processing.
+•
+Conducted in-depth data collection using diverse big data to set up ETL workflows for various business partners using PySpark, SQL, Hadoop ensuring extremely clean and well documented scripts as well as writing optimized code using normalization, multi-threading, etc.
+•
+Migrated over 50 on-prem processes to automated workflows in Azure using Databricks, Synapse Analytics, ADF.
+Data Science and Advanced Analytics Intern
+Sep ’21 – Apr ‘22
+TD Bank - Canadian Personal Banking, Wealth
+•
+Analyzed customer and merchant data using K-Means Clustering and Market Basket Analysis to find trends throughout the pandemic and present insights to business partners to increase brand loyalty.
+•
+Built a data pipeline for the MyTD app to personalize notifications for customers based on their behavioural pattern.
+•
+Cleanse data using multiple methods including; SQL, Natural Language Processing and Pyspark resulting in 100+ columns maintaining data integrity and quality for different teams to utilize.
+Battle of the Neighborhoods
+•
+Utilized Data Science tools and methodologies, including Foursquare API, Geocoder Package, Pandas, and K-Means Clustering, to analyze multiple data sources and identify the optimal location in Toronto for a new Italian restaurant.
+•
+Skills: Python, Pandas, Scikit Learn, K-Means Clustering, SSE, Elbow Method
+Analysis of Different Fraud Detection Algorithms
+•
+Analyzed fraudulent financial transaction data using various algorithms; Local Outlier Factor and Isolation Forest using SkLearn to achieve 29% accuracy of predicting fraud transactions.
+•
+Skills: Python, Pandas, Scikit Learn, Decision Trees, Local Outlier Factor, Isolation Forest
+SKILLS
+Statistics, Python, R, SQL, Azure, GenAI, Databricks, PySpark, SAS, Tableau, Power BI, Scikit-Learn, Pandas, Scala, Tensorflow, NLP, LLMs, Docker, A/B Testing, Apache Airflow, Apache Spark, Agile, Waterfall, Hadoop, Git, Jira, Java, C/C++
+EDUCATION
+SELECTED PROJECTS
+uraza.khan2000@gmail.com | +1(647)-454-7907 | www.linkedin.com/in/umarrkhan | github.com/umarkhan2000
