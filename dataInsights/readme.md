@@ -58,6 +58,8 @@ LlamaIndex (formerly GPT Index) connects large language models (LLMs) like GPT w
 
 In short, LlamaIndex allows you to leverage the power of LLMs to translate natural language queries into Python code, making it easier to interact with datasets without needing to write the code yourself.
 
+For more info, visit: https://docs.llamaindex.ai/en/stable/#introduction
+
 ## Future Work
 
 - **Support for Larger Datasets:** Experiment with larger and more complex datasets beyond toy examples.
