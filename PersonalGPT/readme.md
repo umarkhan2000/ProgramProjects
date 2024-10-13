@@ -1,7 +1,3 @@
-Here's a template for a GitHub README file for your project where you used LangChain to create a personal ChatGPT assistant that reads your data. You can modify it according to your project's specifics.
-
----
-
 # Personal ChatGPT Assistant Using LangChain
 
 This project demonstrates how to create a **personal ChatGPT assistant** using [LangChain](https://langchain.com/) and Python. The assistant is capable of interacting with custom data stored in a `data` folder and answering questions based on this specific information. It extends the capabilities of OpenAI’s ChatGPT by providing personalized responses using your own dataset.
