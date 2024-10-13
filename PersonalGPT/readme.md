@@ -39,7 +39,7 @@ export OPENAI_API_KEY='your-api-key'
 To run the assistant, execute the following command:
 
 ```bash
-python assistant.py
+python mygpt.py
 ```
 
 The assistant will load your data from the `data/` folder and be ready to answer questions.
